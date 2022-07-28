@@ -11,5 +11,5 @@ Após a universidade acabei me afastando da área, retornando aos estudos com a 
 ### Projetos atuais 📝
 - Pentest Experience e exame DCPT (https://desecsecurity.com/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=theeldruin&theme=merko&hide=contribs,issues&show_icons=true&height=500)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theeldruin&layout=default&theme=merko)](https://github.com/theeldruin/github-readme-stats)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=theeldruin&theme=merko&hide=issues&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theeldruin&layout=default&theme=merko)](https://github.com/theeldruin/github-readme-stats)
 
